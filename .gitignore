@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+.idea/
+.a*
+.misc.xml
+misc.xml
+.idea/*
+.idea
