@@ -33,3 +33,5 @@ bin/
 misc.xml
 .idea/*
 .idea
+.cache
+.pki
